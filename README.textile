@@ -1,0 +1,3 @@
+Dim ond 500 cylch sy'n cael eu mapio. Mae'r lliw'n amrywio'n ôl y math o gylch.
+
+Only 500 groups are mapped. The colour varies according to type of cylch.
